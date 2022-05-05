@@ -123,3 +123,9 @@ body{
   margin-left: 34%;
   background-color: beige;
 }
+
+.logo img{
+	width: 24%;
+	margin-bottom: -8%;
+	margin-top: -2%;
+}
