@@ -81,7 +81,7 @@ body{
   margin-top: -1%;
 }
 #datos2 p{
-  margin-bottom: -33%;
+  margin-bottom: 0%;
 }
 #grupo1, #grupo2{
   display: flex;
@@ -91,7 +91,7 @@ body{
 }
 #fotopekenia{
   width: 49%;
-  margin-top: -25%;
+  margin-top: -22%;
 }
 #fotodcha1{
   width: 50%;
@@ -119,7 +119,7 @@ body{
 }
 
 #datosreservas{
-  width: fit-content;
+  width: 25%;
   margin-left: 34%;
   background-color: beige;
 }
